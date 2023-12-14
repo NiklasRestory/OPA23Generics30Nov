@@ -1,6 +1,23 @@
 package org.example.RepetitionInterfaces;
 
-public class DesktopEngine extends Engine{
+public class DesktopEngine implements IEngine{
+    @Override
+    public void start() {
+        
+    }
 
-    public int someVariable;
+    @Override
+    public void accelerate() {
+
+    }
+
+    @Override
+    public void brake() {
+
+    }
+
+    @Override
+    public void stop() {
+
+    }
 }

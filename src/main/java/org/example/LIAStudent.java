@@ -4,6 +4,7 @@ public class LIAStudent extends Student {
     private String company;
     private String something;
     private int changeOnSameSpot;
+    private int thisIsAChange;
 
 
     public LIAStudent(int id, String name, int age, String gender, String company) {
