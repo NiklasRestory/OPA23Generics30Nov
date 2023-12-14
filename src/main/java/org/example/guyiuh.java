@@ -7,4 +7,5 @@ public class guyiuh {
     private JPasswordField passwordField1;
     private JTextField textField1;
     private JTextArea textArea1;
+    private JPasswordField passwordField2;
 }
