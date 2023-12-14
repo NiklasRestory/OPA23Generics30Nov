@@ -8,6 +8,7 @@ public class LIAStudent extends Student {
         super(id, name, age, gender);
         this.company = company;
     }
+    // This is a change done by someone else in my team.
 
     public String getCompany() {
         return company;
